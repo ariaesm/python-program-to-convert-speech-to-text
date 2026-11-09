@@ -1,0 +1,2 @@
+SpeechRecognition>=3.10
+pydub>=0.25
